@@ -1,20 +1,25 @@
 body{
     text-align: center;
-    background-color: rgba(203, 199, 199, 0.74);
+    background-image: url('https://c.tenor.com/fujQmOzWj9AAAAAC/demigorgan-demigorgen.gif');
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
 /* button customs */
 button{
     font-size: 1.2rem;
     border-radius: -10%;
+    padding: 0;
  
 }
 button:hover{
     color: red;
 }
 h1{
-    font-size: 1.5rem;
-    padding-top: 2%;
+    font-size: 2.5rem;
+    padding-top: 0.2rem;
+    color: rgba(245, 248, 251, 0.839);
 }
 img{
-    padding-top: 3%;
+    padding-top: 1%;
+    max-width: 100%;
 }
