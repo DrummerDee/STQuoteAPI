@@ -2,7 +2,13 @@ body{
     text-align: center;
     background-image: url('https://c.tenor.com/P9VUwFrVFioAAAAd/stranger-things-clouds.gif');
     background-size: cover;
- 
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+}
+.container{
+    text-align: center;
+
 }
 /* button customs */
 button{
@@ -13,6 +19,7 @@ button{
 }
 button:hover{
     color: red;
+    background-color: black;
 }
 h1{
     font-size: 2.5rem;
@@ -22,4 +29,7 @@ h1{
 img{
     padding-top: 1%;
     max-width: 100%;
+}
+h2,span{
+    color: white;
 }
